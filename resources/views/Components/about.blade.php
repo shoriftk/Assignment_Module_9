@@ -2,7 +2,7 @@
     <div class="container">
 
       <div class="section-title">
-        <h2>About</h2>
+        <h2>About Me</h2>
         <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
       </div>
 
@@ -29,7 +29,7 @@
               <ul>
                 <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>33</span></li>
                 <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Master</span></li>
-                <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>email@example.com</span></li>
+                <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>pointonlinepay@gmail.com</span></li>
                 <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Available</span></li>
               </ul>
             </div>
